@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.app.BasicsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-27T10:31:56" hostname="codespaces-ec83df" time="0.063">
+  <properties/>
+  <testcase name="saludo_simple()" classname="com.example.app.BasicsTest" time="0.038"/>
+  <testcase name="area_rectangulo()" classname="com.example.app.BasicsTest" time="0.002"/>
+  <testcase name="parseo_edad()" classname="com.example.app.BasicsTest" time="0.012"/>
+  <testcase name="saludo_seguro_null_o_vacio()" classname="com.example.app.BasicsTest" time="0.002"/>
+  <testcase name="suma_basica()" classname="com.example.app.BasicsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

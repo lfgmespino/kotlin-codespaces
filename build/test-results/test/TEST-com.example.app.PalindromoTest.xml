@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.app.PalindromoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-27T09:09:19" hostname="codespaces-ec83df" time="0.082">
+<testsuite name="com.example.app.PalindromoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-27T10:31:56" hostname="codespaces-ec83df" time="0.015">
   <properties/>
-  <testcase name="numeros()" classname="com.example.app.PalindromoTest" time="0.065"/>
-  <testcase name="clasicos()" classname="com.example.app.PalindromoTest" time="0.001"/>
+  <testcase name="numeros()" classname="com.example.app.PalindromoTest" time="0.004"/>
+  <testcase name="clasicos()" classname="com.example.app.PalindromoTest" time="0.002"/>
   <testcase name="vacioOSoloSignos()" classname="com.example.app.PalindromoTest" time="0.001"/>
   <testcase name="unCaracter()" classname="com.example.app.PalindromoTest" time="0.001"/>
-  <testcase name="noPalindromos()" classname="com.example.app.PalindromoTest" time="0.003"/>
+  <testcase name="noPalindromos()" classname="com.example.app.PalindromoTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
